@@ -8,7 +8,7 @@ Changelog
   - Moved the adding menu item functionality from the Menu Screen to this screen.
   - Added the ability to remove menu items
 
- - **Menu Screen**
+- **Menu Screen**
   - Polished functionality
   - added buttons to traverse to the newly added screens
   - removed the ability to add menu items and moved the functionality to the chef screen
